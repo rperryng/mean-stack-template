@@ -1,6 +1,6 @@
 {
-  "name": "secretSanta",
-  "version": "0.0.1",
+  "name": "MyApp",
+  "version": "1.0.0",
   "main": "server.js",
   "author": "Ryan Perry-Nguyen",
   "dependencies": {
