@@ -1,0 +1,40 @@
+@import "./fonts.less";
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+input,
+optgroup,
+select,
+span,
+textarea,
+p {
+  .font-main;
+}
+.wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.title {
+  .font-main;
+}
+.btn {
+  font-family: 'Montserras', 'Roboto', sans-serif;
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: gray;
+  display: block;
+  margin: 2px 4px;
+  padding: 5px;
+  text-align: center;
+  &:hover {
+    background-color: white;
+  }
+  &:active {
+    box-shadow: 0 2px 2px 2px rgb(200, 200, 200);
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "globals": {
+    "module": true,
+    "require": true,
+    "__dirname": true,
+    "process": true,
+
+    "angular": true,
+    "FB": true
+  }
+}
