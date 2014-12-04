@@ -1,6 +1,6 @@
 ### What this is
 
-Setup takes way too long.  This is the typical starting point I have for my single page MEAN stack applications.
+Setup takes way too long, so I made this basic starting point I use for my single page MEAN stack applications.  Out of the box, you can get started with a NodeJS + ExpressJS backend wired up with a AngularJS/Less front end.  Comes with all the scaffolding and gulp tasks already set up.
 
 ### How to use
 
